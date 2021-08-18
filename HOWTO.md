@@ -8,7 +8,7 @@
     
 3. Aggiungere il credential helper
 
-    git config --global credential.helper
+    git config --global credential.helper store
     
 4. Configurare il credential helper
 
